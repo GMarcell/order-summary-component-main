@@ -34,7 +34,7 @@ main {
     margin: 0 auto;
     border-radius: 20px;
     overflow: hidden;
-    box-shadow: 0px 0px 14px 1px #00000024;
+    box-shadow: 0px 0px 14px 10px #00000024;
     background-color: white;
 }
 
@@ -68,6 +68,7 @@ main {
 }
 
 .plan-text {
+    font-size: 10px;
     padding-left: 20px;
 }
 
@@ -101,6 +102,7 @@ main {
     display: inline-block;
     text-align: center;
     padding: 10px;
+    box-shadow: 0px 15px 8px #00000024;
 }
 
 .cancel {
