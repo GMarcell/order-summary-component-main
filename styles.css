@@ -42,11 +42,12 @@ main {
     padding: 30px;
 }
 
-.content h2 {
+.content h1 {
     padding-top: 5px;
     padding-bottom: 5px;
     text-align: center;
     font-weight: 900;
+    font-size: 25px;
 }
 
 .content p {
